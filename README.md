@@ -6,4 +6,4 @@
 
 ⚙️ Exploring the boundary between hardware and intelligence 
 
-Thanks for visiting!
+Thanks for visiting !
